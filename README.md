@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/IMG/pic12.jpg height="200px" width="900px">
+<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic4.jpg height="200px" width="900px">
 
 <br>
 
@@ -51,14 +51,14 @@
 <tr>
 <th>
 
-<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/GIF/Self_dc.gif" height="200px" width="400px" >
+<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/GIF/Self_dc.gif" height="200px" width="400px" >
 
 [Self Driving Car Project](https://github.com/Sudhanshu1304/SELF_DRIVING_CAR)
 
 </th>
 <th>
 
-<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/GIF/2048.gif"  height="200px" width="400px" >
+<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/GIF/2048.gif"  height="200px" width="400px" >
 
 [2048 Bot](https://github.com/Sudhanshu1304/2048_BOT)
 
@@ -73,7 +73,7 @@
 <tr>
 <td>
 
-<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/GIF/serach_word.gif"  height="200px" width="400px" >
+<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/GIF/serach_word.gif"  height="200px" width="400px" >
 
 [Search Word Bot ](https://github.com/Sudhanshu1304/SEARCH_WORD_BOT)
 
