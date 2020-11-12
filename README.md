@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/IMG/pic15.jpg height="200px" width="900px">
+<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/master/IMG/pic3.png height="200px" width="900px">
 
 <br>
 
