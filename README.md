@@ -37,7 +37,7 @@
 ### Modules
 
 * [Numpy](https://github.com/Sudhanshu1304/Numpy)
-
+* [Pandas](https://github.com/Sudhanshu1304/Pandas-Library)
 
 ### Others
 
