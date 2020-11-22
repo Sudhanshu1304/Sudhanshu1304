@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic12.jpg height="200px" width="900px">
+<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic3.png height="200px" width="900px">
 
 <br>
 
@@ -34,8 +34,14 @@
 * [Covid_19-Analysis](https://github.com/Sudhanshu1304/Covid_19-Analysis)
 * [NUERAL_NETWORK_VISUALIZER-](https://github.com/Sudhanshu1304/NUERAL_NETWORK_VISUALIZER-)
 
+### Modules
+
+* [Numpy](https://github.com/Sudhanshu1304/Numpy)
+
+
 ### Others
 
+* [Education-Web](https://github.com/Sudhanshu1304/Education-Web)
 * [Web_Dev-NLP](https://github.com/Sudhanshu1304/Web_Development_FLASK)
 * [Amazon_Web_Scraping-](https://github.com/Sudhanshu1304/Amazon_Web_Scraping-)
 * [Pygame-ML](https://github.com/Sudhanshu1304/A.I--Hit__TARGET)
@@ -80,7 +86,18 @@
 
 
 </td>
+
+<td>
+
+<img src="https://github.com/Sudhanshu1304/Education-Web/blob/master/ezgif.com-gif-maker.gif"  height="200px" width="400px" >
+
+[Education-Web](https://github.com/Sudhanshu1304/Education-Web)
+
+
+</td>
+
 </tr>
+
 
 
 </table>
