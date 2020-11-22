@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic3.png height="200px" width="900px">
+<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic15.jpg height="200px" width="900px">
 
 <br>
 
@@ -64,9 +64,9 @@
 </th>
 <th>
 
-<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/GIF/2048.gif"  height="200px" width="400px" >
+<img src="https://github.com/Sudhanshu1304/Education-Web/blob/master/ezgif.com-gif-maker.gif"  height="200px" width="400px" >
 
-[2048 Bot](https://github.com/Sudhanshu1304/2048_BOT)
+[Education-Web](https://github.com/Sudhanshu1304/Education-Web)
 
 </th>
 </tr>
@@ -89,9 +89,10 @@
 
 <td>
 
-<img src="https://github.com/Sudhanshu1304/Education-Web/blob/master/ezgif.com-gif-maker.gif"  height="200px" width="400px" >
 
-[Education-Web](https://github.com/Sudhanshu1304/Education-Web)
+<img src="https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/GIF/2048.gif"  height="200px" width="400px" >
+
+[2048 Bot](https://github.com/Sudhanshu1304/2048_BOT)
 
 
 </td>
