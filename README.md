@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/pic15.jpg height="200px" width="900px">
+<img src=https://github.com/Sudhanshu1304/Sudhanshu1304/blob/main/IMG/52564.png height="200px" width="900px">
 
 <br>
 
@@ -38,6 +38,7 @@
 
 * [Numpy](https://github.com/Sudhanshu1304/Numpy)
 * [Pandas](https://github.com/Sudhanshu1304/Pandas-Library)
+* [Model Automation](https://github.com/Sudhanshu1304/ModelAuto)
 
 ### Others
 
