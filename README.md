@@ -24,14 +24,9 @@
 
 ### **Kaggle**
 > [https://www.kaggle.com/sudhupandey](https://www.kaggle.com/sudhupandey)
-<br>
 
 ### **CodeChef👩‍💻**
 > [https://www.codechef.com/users/sudhanshu_p13](https://www.codechef.com/users/sudhanshu_p13)
-<br>
 
 ### **Twitter**
 > [https://twitter.com/sudhans10701068](https://twitter.com/sudhans10701068)
-
-
-
