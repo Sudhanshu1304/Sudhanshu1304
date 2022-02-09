@@ -14,8 +14,8 @@
 ## Social Profile 😏📕
 
 ### **Resume & Projects**
-> [https://sudhanshu1304.netlify.app/](https://sudhanshu1304.netlify.app/)
-
+> [PortFolio](https://sudhanshu1304.netlify.app/)
+> [Resume](https://sudhanshu13.netlify.app/)
 ###  **Blogs**
 >[https://medium.com/@sudhanshu.dpandey](https://medium.com/@sudhanshu.dpandey)
 
@@ -28,5 +28,5 @@
 ### **CodeChef👩‍💻**
 > [https://www.codechef.com/users/sudhanshu_p13](https://www.codechef.com/users/sudhanshu_p13)
 
-### **Twitter**
-> [https://twitter.com/sudhans10701068](https://twitter.com/sudhans10701068)
+
+
