@@ -1,9 +1,11 @@
 
 # Hi, Sudhanshu here 👋 
 
+### **Machine Learning Engineer @Intelekt AI**
+
+<br>
 
 ## About Me 👨‍🎓
-
 
 * **I Love Developing Products, and applying algorithms to different domains, specially the one using ML or AI concepts.**
 * **I write blogs on Machine Learning at Medium.**
