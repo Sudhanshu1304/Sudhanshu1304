@@ -1,7 +1,7 @@
 
 # Hi, Sudhanshu here 👋 
 
-### **Machine Learning Engineer @Intelekt AI**
+### **Machine Learning Engineer @Intellekt AI**
 
 <br>
 
