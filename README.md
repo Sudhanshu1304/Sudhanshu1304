@@ -6,7 +6,7 @@
 * **I Love Developing Products, and applying algorithms to different domains, specially the one using ML or AI concepts.**
 * **I write blogs on Machine Learning at Medium.**
 * **I enjoy Hackathons, as we get an opportunity to apply AI on real-life problems**
-* **Presently doing Research on applying Deep Learning in Medical Domain as an Intern at SCMIA.**
+* **I am currently an intern as a Machine Learning Engineer at Intellekt AI, where I am having experience with reinforcement learning in the finance domain..**
 <br>
 
 ## Social Profile 😏📕
