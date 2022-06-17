@@ -1,4 +1,4 @@
-# Hi, Sudhanshu1304 here 👋 <p align="right" > <a href='http://devroom.in/Sudhanshu1304/' target="_blank"> <img alt="Devroom logo" src="https://firebasestorage.googleapis.com/v0/b/devroom-v01.appspot.com/o/Devroom%2Fdevroom_badge.png?alt=media&token=90831022-849a-476e-b72f-0d671d0098b2" width="200px"> </a> </p>
+# Hi, Sudhanshu1304 here 👋 
 
 ## About Me 👨‍🎓
 
