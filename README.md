@@ -14,8 +14,9 @@
 ## Social Profile 😏📕
 
 ### **Resume & Projects**
-> [PortFolio](https://sudhanshu1304.netlify.app/)
-> [Resume](https://sudhanshu13.netlify.app/)
+
+> [PortFolio](https://sudhanshu-pandey.netlify.app/)
+> [Resume](https://www.dropbox.com/s/in6qeecymiszqgp/Sudhanshu_Pandey_Resume_Updated.pdf?dl=0)
 ###  **Blogs**
 >[https://medium.com/@sudhanshu.dpandey](https://medium.com/@sudhanshu.dpandey)
 
