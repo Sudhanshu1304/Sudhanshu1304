@@ -16,7 +16,7 @@
 ## My Recent Blogs
 - <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0" alt="Recent Article 0"> 
 - <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/2"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/2" alt="Recent Article 2"> 
-- <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/1"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/1" alt="Recent Article 2"> 
+
 
 ## Social Profile 😏📕
 
