@@ -4,18 +4,18 @@
 
 ## About Me 👨‍🎓
 
-### **Machine Learning Engineer @Intellekt AI**
+### **Data Engineer @Bajaj Finserv Health**
 * **I Love Developing Products, and applying algorithms to different domains, specially the one using ML or AI concepts.**
 * **I write blogs on Machine Learning at Medium.**
 * **I enjoy Hackathons, as we get an opportunity to apply AI on real-life problems**
-* **I am currently an intern as a Machine Learning Engineer at Intellekt AI, where I am having experience with reinforcement learning in the finance domain..**
+* **I was a Machine Learning Engineer at Intellekt AI, where I am had  experience with reinforcement learning in the finance domain..**
 <br>
 
 
 
 ## My Recent Blogs
 - <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0" alt="Recent Article 0"> 
-- <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/2"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/2" alt="Recent Article 2"> 
+- <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3" alt="Multicollinearity"> 
 
 
 ## Social Profile 😏📕
