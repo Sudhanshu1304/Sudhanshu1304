@@ -1,41 +1,52 @@
-# Hi, Sudhanshu1304 here 👋 
+# 👋 Hi, I'm Sudhanshu Pandey (Sudhanshu1304)
 
-<br>
+Welcome to my GitHub! I'm a **Data Engineer at Bajaj Finserv Health** with a passion for building impactful products and leveraging AI/ML to solve real-world problems.
 
-## About Me 👨‍🎓
+---
 
-### **Data Engineer @Bajaj Finserv Health**
-* **I Love Developing Products, and applying algorithms to different domains, specially the one using ML or AI concepts.**
-* **I write blogs on Machine Learning at Medium.**
-* **I enjoy Hackathons, as we get an opportunity to apply AI on real-life problems**
-* **I was a Machine Learning Engineer at Intellekt AI, where I am had  experience with reinforcement learning in the finance domain..**
-<br>
+## 👨‍🎓 **About Me**
 
+- 💻 **Data Engineer** at Bajaj Finserv Health, driving innovative solutions in healthcare using data and technology.
+- 📖 Blogger on [Medium](https://medium.com/@sudhanshu.dpandey), sharing insights on Machine Learning and related topics.
+- 🏆 Avid participant in hackathons, applying AI/ML concepts to address practical challenges.
+- 📈 Former **Machine Learning Engineer** at Intellekt AI, where I explored reinforcement learning applications in the finance domain.
 
+---
 
-## My Recent Blogs
-- <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0" alt="Recent Article 0"> 
-- <a  target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3"><img width="100%"  src="https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3" alt="Multicollinearity"> 
+## ✍️ **My Recent Blogs**
 
+[![Recent Blog 1](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0)](https://github.com/sudhanshu.dpandey/0)  
+[![Recent Blog 2](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3)](https://github.com/sudhanshu.dpandey/3)
 
-## Social Profile 😏📕
+---
 
+## 🌐 **Social Profiles**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sudhanshu-pandey.netlify.app/)
+- 💼 Explore my [Portfolio](https://sudhanshu-pandey.netlify.app/)
+- 📄 Check out my [Resume](https://www.dropbox.com/s/in6qeecymiszqgp/Sudhanshu_Pandey_Resume_Updated.pdf?dl=0)
+- 🤝 Connect with me on:
+  - [LinkedIn](https://linkedin.com/in/sudhanshu-pandey-847448193)
+  - [Kaggle](https://kaggle.com/sudhupandey)
+  - [Medium](https://medium.com/sudhanshu.dpandey)
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/s/in6qeecymiszqgp/Sudhanshu_Pandey_Resume_Updated.pdf?dl=0)
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ **Languages & Tools**
+
 <p align="left">
-<a href="https://linkedin.com/in/sudhanshu-pandey-847448193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-pandey-847448193" height="30" width="40" /></a>
-<a href="https://kaggle.com/sudhupandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sudhupandey" height="30" width="40" /></a>
-<a href="https://medium.com/sudhanshu.dpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sudhanshu.dpandey" height="30" width="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
+Thanks for visiting my profile! Let's create something amazing together. 🚀
