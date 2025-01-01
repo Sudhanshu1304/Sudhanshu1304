@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Data Engineer at Bajaj Finserv Health** with a pas
 
 ## 👨‍🎓 **About Me**
 
-- 💻 **Data Engineer** at Bajaj Finserv Health, driving innovative solutions in healthcare using data and technology.
+- 💻 **Data Scientists** at Bajaj Finserv Health, driving innovative solutions in healthcare using data and technology.
 - 📖 Blogger on [Medium](https://medium.com/@sudhanshu.dpandey), sharing insights on Machine Learning and related topics.
 - 🏆 Avid participant in hackathons, applying AI/ML concepts to address practical challenges.
 - 📈 Former **Machine Learning Engineer** at Intellekt AI, where I explored reinforcement learning applications in the finance domain.
