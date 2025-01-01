@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sudhanshu Pandey (Sudhanshu1304)
 
-Welcome to my GitHub! I'm a **Data Engineer at Bajaj Finserv Health** with a passion for building impactful products and leveraging AI/ML to solve real-world problems.
+Welcome to my GitHub! I'm a **Data Scientists at Bajaj Finserv Health** with a passion for building impactful products and leveraging AI/ML to solve real-world problems.
 
 ---
 
