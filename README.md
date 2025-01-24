@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a **Data Scientists at Bajaj Finserv Health** with a p
 
 ## ✍️ **My Recent Blogs**
 
-[![Recent Blog 1](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0)](https://github.com/sudhanshu.dpandey/0)  
-[![Recent Blog 2](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3)](https://github.com/sudhanshu.dpandey/3)
+[![Recent Blog 1](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0)]([https://github.com/sudhanshu.dpandey/0](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/0))  
+[![Recent Blog 2](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3)]([https://github.com/sudhanshu.dpandey/3](https://github-readme-medium-recent-article.vercel.app/medium/@sudhanshu.dpandey/3))
 
 ---
 
