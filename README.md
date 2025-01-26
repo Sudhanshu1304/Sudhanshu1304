@@ -49,4 +49,4 @@ Welcome to my GitHub! I'm a **Data Scientists at Bajaj Finserv Health** with a p
 
 ---
 
-Thanks for visiting my profile! Let's create something amazing together. 🚀
+Let's create something amazing. 🚀
