@@ -23,7 +23,6 @@ Welcome to my GitHub! I'm a **Data Scientists at Bajaj Finserv Health** with a p
 ## 🌐 **Social Profiles**
 
 - 💼 Explore my [Portfolio](https://sudhanshu-pandey.netlify.app/)
-- 📄 Check out my [Resume](https://www.dropbox.com/s/in6qeecymiszqgp/Sudhanshu_Pandey_Resume_Updated.pdf?dl=0)
 - 🤝 Connect with me on:
   - [LinkedIn](https://linkedin.com/in/sudhanshu-pandey-847448193)
   - [Kaggle](https://kaggle.com/sudhupandey)
